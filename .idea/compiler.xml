@@ -15,15 +15,15 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ds-common" target="1.8" />
-      <module name="ds-manager" target="1.8" />
-      <module name="ds-manager-dao" target="1.8" />
-      <module name="ds-manager-pojo" target="1.8" />
-      <module name="ds-manager-service" target="1.8" />
-      <module name="ds-manager-serviceimpl" target="1.8" />
+      <module name="ds-common" target="1.5" />
+      <module name="ds-manager" target="1.5" />
+      <module name="ds-manager-dao" target="1.5" />
+      <module name="ds-manager-pojo" target="1.5" />
+      <module name="ds-manager-service" target="1.5" />
+      <module name="ds-manager-serviceimpl" target="1.5" />
       <module name="ds-manager-web" target="1.8" />
       <module name="ds-managerservice-impl" target="1.8" />
-      <module name="ds-parent" target="1.8" />
+      <module name="ds-parent" target="1.5" />
       <module name="dsmanagerpojo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
